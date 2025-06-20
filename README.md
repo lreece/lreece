@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lreece
 - 👀 I’m interested in HTML5/CSS3 & Web accessibility
-- 🌱 I’m currently learning bootstrap 4 and core web vitals
+- 🌱 I’m currently learning bootstrap 5 and core web vitals and Javascript
 
 <!---
 lreece/lreece is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
